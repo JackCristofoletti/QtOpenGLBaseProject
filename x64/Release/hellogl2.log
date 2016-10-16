@@ -1,0 +1,13 @@
+﻿  Moc'ing glwidget.h...
+  Moc'ing mainwindow.h...
+  Moc'ing window.h...
+  glwidget.cpp
+  logo.cpp
+  main.cpp
+  mainwindow.cpp
+  moc_glwidget.cpp
+  moc_mainwindow.cpp
+  moc_window.cpp
+  window.cpp
+  Generating Code...
+  hellogl2.vcxproj -> C:\Users\Jack\OneDrive\DEV\QtWebsite\Examples\Qt-5.7\opengl\hellogl2\release\hellogl2.exe
